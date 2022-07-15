@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b71f22f0.css",
+    "main.js": "/static/js/main.5a14f6f4.js",
+    "static/media/me-about.JPG": "/static/media/me-about.219a106fc3db61e6f74e.JPG",
+    "static/media/me.jpg": "/static/media/me.e3974d4794f0e9a19a88.jpg",
+    "static/media/Alwahab Mohammad Resume Summer 2022.pdf": "/static/media/Alwahab Mohammad Resume Summer 2022.08df736ecf9710baaba3.pdf",
+    "static/media/sql.png": "/static/media/sql.66790c96d2186055aae3.png",
+    "static/media/react.jpg": "/static/media/react.4e9bc624548ace8f1d68.jpg",
+    "static/media/snake.jpg": "/static/media/snake.16d46fabc13d024641c8.jpg",
+    "static/media/quadcopter.jpg": "/static/media/quadcopter.8de8455d6285b1cb22a0.jpg",
+    "static/media/os.jpg": "/static/media/os.d44b8321b7c5f533647b.jpg",
+    "static/media/ransomware.jpg": "/static/media/ransomware.11b85ed4b6c4858cbb12.jpg",
+    "static/media/chess.png": "/static/media/chess.6e587ea169e51268d43b.png",
+    "index.html": "/index.html",
+    "main.b71f22f0.css.map": "/static/css/main.b71f22f0.css.map",
+    "main.5a14f6f4.js.map": "/static/js/main.5a14f6f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b71f22f0.css",
+    "static/js/main.5a14f6f4.js"
+  ]
+}
